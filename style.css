@@ -1,0 +1,62 @@
+body {
+  background-color: #f3e8ff;
+  font-family: Arial, sans-serif;
+  padding: 40px;
+}
+h1 {
+  color: #4B0082;
+  text-align: center;
+}
+h2, h3 {
+  color: #4B0082;
+}
+p {
+  font-size: 18px;
+  text-align: justify;
+}
+ul li {
+  margin-bottom: 10px;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  width: 400px;
+  border-radius: 10px;
+}
+table, td {
+  border: 1px solid #333;
+  border-collapse: collapse;
+  padding: 10px;
+  text-align: center;
+  margin: auto;
+}
+a {
+  display: block;
+  text-align: center;
+  font-size: 18px;
+  color: #0000EE;
+  text-decoration: none;
+  margin-top: 20px;
+}
+a:hover {
+  color: #FF1493;
+}
+.mensagem-container {
+  text-align: center;
+  margin-top: 20px;
+}
+.mensagem-container button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #4B0082;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+#mensagem {
+  margin-top: 15px;
+  color: #4B0082;
+  font-weight: bold;
+  text-align: center;
+}
